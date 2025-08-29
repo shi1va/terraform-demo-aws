@@ -6,7 +6,7 @@
 .terraform.lock.hcl
 crash.log
 *.log
-
+.DS_Store
 # Terraform SSH keys (example for your case)
 terra-key-shivaniuser
 terra-key-shivaniuser.pub
